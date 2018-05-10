@@ -1,0 +1,20 @@
+﻿=================================================================
+Phase-contrast imaging at 100 keV on a conventional X-ray tube
+=================================================================
+
+This project demonstrates a Talbot-Lau interferometer with edge-on illumination [#edgeon]_ 
+on a conventional high-energy source. 
+The edge-on configuration can achieve the large aspect ratio needed to
+stop the high-energy radiation in the absorption gratings. The fabrication
+of such gratings for a conventional face-on geometry would not be possible
+with the current technology.
+An analysis of the performance of the system and
+images acquired at a tube voltage of 160 kVp
+and an interferometer design energy of 100 keV are shown,
+thus bringing the technique in the range of medical computed
+tomography as well as material science and security applications.
+
+.. [#edgeon] C. David and M. Stampanoni, "A method for x-ray phase contrast
+    and dark-field imaging using an arrangement of gratings in planar geometry",
+    EP10167569.
+
